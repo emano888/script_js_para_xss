@@ -1,1 +1,3 @@
-alert(1)
+<?php header("Content-Type: application/javascript"); ?>
+  
+  alert(1)
